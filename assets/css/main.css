@@ -2414,7 +2414,7 @@
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			background: rgba(52, 27, 43, 0.91);
 			color: #fff;
 			display: inline-block;
 			opacity: 0;
@@ -3202,3 +3202,32 @@
     width: 250px;
     height: 250px;
 }
+
+#banner {
+	background-image: url("images/bck2.jpg");
+    margin-bottom: 0;
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.user-circle {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+/*.multiselect-container{position:absolute;list-style-type:none;margin:0;padding:0}.multiselect-container .input-group{margin:5px}.multiselect-container>li{padding:0}.multiselect-container>li>a.multiselect-all label{font-weight:bold}.multiselect-container>li>label.multiselect-group{margin:0;padding:3px 20px 3px 10px;height:100%;font-weight:bold;}.multiselect-container>li>a>label{margin:0;height:100%;cursor:pointer;font-weight:normal}.multiselect-container>li>a>label.radio,.multiselect-container>li>a>label.checkbox{margin:0}.multiselect-container>li>a>label>input[type="checkbox"]{margin-bottom:5px}.btn-group>.btn-group:nth-child(2)>.multiselect.btn{border-top-left-radius:4px;border-bottom-left-radius:4px}*/
+
+/*.row {margin-bottom: 20px;}*/
+
+/*.btn {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 6px;
+}*/
